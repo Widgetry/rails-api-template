@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.0.0'
+gem 'rails', '5.1.7'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
@@ -14,7 +14,7 @@ gem 'omniauth'
 gem 'rack-cors'
 # Use Rack attack for black/white listing, rate limiting, throttling
 gem 'rack-attack'
-# Actime Model Serializers provides a good way to 
+# Actime Model Serializers provides a good way to
 gem 'active_model_serializers', '~> 0.10.0'
 # redis-rails for redis cacheing
 gem 'redis-rails'
