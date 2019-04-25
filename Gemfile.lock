@@ -72,7 +72,7 @@ GEM
     factory_girl_rails (4.9.0)
       factory_girl (~> 4.9.0)
       railties (>= 3.0.0)
-    ffi (1.9.18)
+    ffi (1.10.0)
     globalid (0.4.1)
       activesupport (>= 4.2.0)
     hashie (3.5.6)
