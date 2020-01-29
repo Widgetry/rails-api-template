@@ -25,7 +25,7 @@ gem 'sidekiq'
 # gem 'redis', '~> 3.0'
 
 group :development, :test do
-  gem 'rspec-rails', '3.1.0'
+  gem 'rspec-rails', '3.9.0'
   gem 'factory_girl_rails'
   gem 'pry-rails'
   gem 'pry-byebug'
