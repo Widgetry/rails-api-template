@@ -114,8 +114,8 @@ GEM
     rack (2.1.2)
     rack-attack (5.0.1)
       rack
-    rack-cors (1.0.5)
-      rack (>= 1.6.0)
+    rack-cors (1.1.1)
+      rack (>= 2.0.0)
     rack-protection (2.0.8.1)
       rack
     rack-test (1.1.0)
