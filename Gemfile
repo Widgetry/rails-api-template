@@ -6,7 +6,7 @@ gem 'rails', '5.1.7'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 0.18'
 # Use Puma as the app server
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 # use Devise Token Auth for token based authentication
 gem 'devise_token_auth'
 gem 'omniauth'
