@@ -15,7 +15,7 @@ gem 'rack-cors'
 # Use Rack attack for black/white listing, rate limiting, throttling
 gem 'rack-attack'
 # Actime Model Serializers provides a good way to
-gem 'active_model_serializers', '~> 0.10.0'
+gem 'active_model_serializers', '~> 0.10.10'
 # redis-rails for redis cacheing
 gem 'redis-rails'
 # Use sidekiq for background job processing
