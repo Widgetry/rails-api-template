@@ -113,7 +113,7 @@ GEM
       pry (>= 0.9.11)
     puma (4.3.5)
       nio4r (~> 2.0)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-attack (6.2.2)
       rack (>= 1.0, < 3)
     rack-cors (1.1.1)
